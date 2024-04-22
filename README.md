@@ -16,6 +16,13 @@ docker compose up -d
     http://localhost:3000/api
 
 
+## Alternativa:
+
+1. Descargar todo el backend y seguir los pasos del README del proyecto de NestJs
+[Backend completo](https://github.com/Klerith/nest-teslo-shop/tree/complete-backend)
+
+2. Siempre será necesario Docker, pero sólo para la base de datos, la cual se puede cambiar por un servicio como [NeonTech](https://neon.tech/)
+
 
 # Extra
 Si desean saber más sobre docker y cómo se construyó esta imagen, esto es parte de mi curso de Nest y Docker:
